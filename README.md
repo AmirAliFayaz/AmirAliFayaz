@@ -1,7 +1,7 @@
 
 <img src="https://i.ibb.co/9mVgK2V4/43bf7589463203c278d2351b8b02c677.jpg" alt="Banner" width="1200" height="200">
 
-# 👋 Hey, I'm Afrasyabin!
+# 👋 Hey, I'm AmirAli!
 
 ## Network Security Engineer | Backend Developer | Digital Artist
 
