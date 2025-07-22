@@ -67,27 +67,7 @@ When I’m not coding, I spend time creating **digital art** and watching **insp
 </p>
 
 ### Networking & Security
-<p>
-  <img src="https://img.shields.io/badge/MikroTik-FF8000?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik">
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco">
-  <img src="https://img.shields.io/badge/VPN%20Protocols-%23232323.svg?style=for-the-badge&logo=wireguard&logoColor=white" alt="vpn protocols">
-  <img src="https://img.shields.io/badge/WireGuard-881177?style=for-the-badge&logo=wireguard&logoColor=white" alt="WireGuard">
-  <img src="https://img.shields.io/badge/OpenVPN-FF6B00?style=for-the-badge&logo=openvpn&logoColor=white" alt="OpenVPN">
-  <img src="https://img.shields.io/badge/V2Ray-EE0000?style=for-the-badge&logo=v2ray&logoColor=white" alt="V2Ray">
-  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=cybersecurity&logoColor=white" alt="Cybersecurity">
-  <img src="https://img.shields.io/badge/Network%20Security-%231C1C1C.svg?style=for-the-badge&logo=networksecurity&logoColor=white" alt="Network Security">
-  <img src="https://img.shields.io/badge/Red_Team-FF0000?style=for-the-badge&logo=hackerone&logoColor=white" alt="Red Team">
-  <img src="https://img.shields.io/badge/Blue_Team-267BFF?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Blue Team">
-  <img src="https://img.shields.io/badge/Network%20Passive%20and%20Active-%23232323.svg?style=for-the-badge&logo=wireshark&logoColor=white" alt="network passive and active">
-</p>
-
-### Operating Systems
-<p>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
-</p>
+<p> <img src="https://img.shields.io/badge/Network%20Architecture-1C1C1C?style=for-the-badge&logo=windowsxp&logoColor=white" alt="Network Architecture"> <img src="https://img.shields.io/badge/Network%20Security-111111?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Network Security"> <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=cybersecurity&logoColor=white" alt="Cybersecurity"> <img src="https://img.shields.io/badge/Red Team-8B0000?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Red Team"> <img src="https://img.shields.io/badge/Blue Team-0000CD?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Blue Team"> <img src="https://img.shields.io/badge/Packet%20Analysis-005C97?style=for-the-badge&logo=wireshark&logoColor=white" alt="Packet Analysis"> <img src="https://img.shields.io/badge/Penetration Testing-6A0DAD?style=for-the-badge&logo=gnuprivacyguard&logoColor=white" alt="Penetration Testing"> <img src="https://img.shields.io/badge/VPN%20Protocols-181818?style=for-the-badge&logo=wireguard&logoColor=white" alt="VPN Protocols"> <img src="https://img.shields.io/badge/WireGuard-881177?style=for-the-badge&logo=wireguard&logoColor=white" alt="WireGuard"> <img src="https://img.shields.io/badge/OpenVPN-FF6B00?style=for-the-badge&logo=openvpn&logoColor=white" alt="OpenVPN"> <img src="https://img.shields.io/badge/V2Ray-A00000?style=for-the-badge&logo=v2ray&logoColor=white" alt="V2Ray"> <img src="https://img.shields.io/badge/Firewall%20Design-222222?style=for-the-badge&logo=datadog&logoColor=white" alt="Firewall Design"> <img src="https://img.shields.io/badge/IDS%20%2F%20IPS%20Systems-343434?style=for-the-badge&logo=simpleicons&logoColor=white" alt="IDS/IPS"> <img src="https://img.shields.io/badge/SIEM%20Integration-0F0F0F?style=for-the-badge&logo=splunk&logoColor=white" alt="SIEM Integration"> <img src="https://img.shields.io/badge/MikroTik-FF8000?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik"> <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"> </p>
 
 ### Management & Project Management
 <p>
