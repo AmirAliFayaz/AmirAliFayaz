@@ -77,4 +77,6 @@ When I’m not coding, I spend time creating **digital art** and watching **insp
 
 ---
 
-> _"Work hard, but chill harder."_ 👑
+> _"Secure everything like a paranoid, monitor like a hacker, chill like nothing ever happened." 🔐☕️
+
+
