@@ -1,5 +1,5 @@
 
-<img src="https://i.ibb.co/9mVgK2V4/43bf7589463203c278d2351b8b02c677.jpg" alt="Banner" width="1200" height="200">
+<img src="https://i.ibb.co/ZRZ3kPYc/c04a6fa3c949036f0788a776dfcc05aa.jpg" alt="Banner" width="1200" height="200">
 
 # 👋 Hey, I'm AmirAli!
 
